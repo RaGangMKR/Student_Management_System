@@ -16,4 +16,4 @@
 - Modern UI design with responsive controls
 
 
-** This application streamlines administrative tasks in educational institutions by providing an all-in-one solution for managing student-related data and academic operations.
+=> This application streamlines administrative tasks in educational institutions by providing an all-in-one solution for managing student-related data and academic operations.
